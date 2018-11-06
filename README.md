@@ -1,1 +1,1 @@
-this is learn android demo project
+This is a learning project
